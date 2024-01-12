@@ -523,23 +523,23 @@ of the light one (when printing defaults to light color scheme)*/
   /* color: rgb(245,159,0); */
 }
 
-.h2 *:not(li, figure, strong, blockquote p) {
+.h2 *:not(li, figure, strong, blockquote p, a) {
   margin-left: 20px !important;
 }
 
-.h3 *:not(li, figure, strong, blockquote p) {
+.h3 *:not(li, figure, strong, blockquote p, a) {
   margin-left: 50px !important;
 }
 
-.h4 *:not(li, figure, strong, blockquote p) {
+.h4 *:not(li, figure, strong, blockquote p, a) {
   margin-left: 80px !important;
 }
 
-.h5 *:not(li, figure, strong, blockquote p) {
+.h5 *:not(li, figure, strong, blockquote p, a) {
   margin-left: 100px !important;
 }
 
-.h6 *:not(li, figure, strong, blockquote p) {
+.h6 *:not(li, figure, strong, blockquote p, a) {
   margin-left: 120px !important;
 }
 
